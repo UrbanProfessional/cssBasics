@@ -1,0 +1,16 @@
+table {
+    border: solid 1px black;
+}
+thead {
+    background-color: blue;
+    color: aliceblue;
+}
+
+tfoot {
+    background-color: blue;
+    color: aliceblue;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: gray;
+}

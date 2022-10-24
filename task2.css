@@ -1,0 +1,10 @@
+div {
+    background-color: crimson;
+    padding: 250px 250px 250px 250px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 15px;
+    box-shadow: 15px 15px lightgray;
+}
+/* Went well, not sure if using a block element was the play here, to make it work
+I had to change the margins and padding. Took like 10 minutes */
